@@ -1,2 +1,2 @@
-# battery-indicator
+# battery-indicator 
 # https://batteryinfo.netlify.app
